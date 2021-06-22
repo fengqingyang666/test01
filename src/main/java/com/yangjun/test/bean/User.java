@@ -15,4 +15,6 @@ public class User {
 
     private String address;
 
+    private long tel;
+
 }
