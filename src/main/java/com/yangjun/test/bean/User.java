@@ -19,4 +19,6 @@ public class User {
 
     private Date birthDay;
 
+    private long tel;
+
 }
